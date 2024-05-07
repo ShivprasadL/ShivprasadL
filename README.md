@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivprasad Lokhande</h1>
 <h2 align="center">Software QA Engineer from India</h2>
+<img align="right" alt="Testing" Width="400" height="100" src="https://www.defteam.com/wordpress/wp-content/themes/defteam/images/PDS/qaFeature_img.gif">
 
 - 🔭 I’m currently working on **E-Commerce**
 
