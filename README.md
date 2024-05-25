@@ -1,27 +1,82 @@
 <h1 align="center">Hi 👋, I'm Shivprasad Lokhande</h1>
 <h2 align="center">Software QA Engineer from India</h2>
+
 <img align="right" alt="Testing" Width="150" src="https://digiyosys.com/wp-content/uploads/2022/05/Software-code-testing.gif">
 
-- 🔭 I’m currently working on **E-Commerce**
 
-- 🌱 I’m currently learning **Automation Testing**
+<h2>About Me</h2>
+<p>I'm a passionate manual tester with a keen eye for detail and a strong commitment to quality. I have experience in various testing methodologies and tools, and I enjoy collaborating on projects to improve software reliability.</p>
 
-- 💬 I have hands on experience in **Software Testing, API Testing, Database Testing**
+<h2>Skills</h2>
+<ul>
+    <li>📝 Test Planning and Strategy</li>
+    <li>🧪 Writing Test Cases and Scenarios</li>
+    <li>🐞 Bug Reporting and Tracking</li>
+    <li>🗄️ Database Testing (SQL)</li>
+    <li>🔄 API Testing (Postman)</li>
+    <li>🤖 Basic Automation (Selenium)</li>
+</ul>
 
-- 📫 How to reach me **shivprasadlokhande9492@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/shivprasad-lokhande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shivprasad-lokhande" height="30" width="40" /></a>
-</p>
+<h2>Tools Table</h2>
 
-<h3 align="left">Languages and Tools:</h3>
+<table>
+    <tr>
+        <th>Skills</th>
+        <th>Tools</th>
+    </tr>
+    <tr>
+        <td>Project Management</td>
+        <td><img class="logo" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="JIRA Logo" width="20" height="20"> JIRA</td>
+    </tr>
+    <tr>
+        <td>Database Testing</td>
+        <td><img class="logo" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL Logo" width="40" height="20"> MySQL</td>
+    </tr>
+    <tr>
+        <td>API Testing</td>
+        <td><img class="logo" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman Logo" width="20" height="18"> Postman</td>
+    </tr>
+    <tr>
+        <td>Language</td>
+        <td><img class="logo" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java Logo" width="20" height="20"> Java</td>
+    </tr>
+    <tr>
+        <td>Automation Testing</td>
+        <td><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="20" height="20"> Selenium</td>
+    </tr>
+    <tr>
+        <td>Version Control System</td>
+        <td><img class="logo" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git Logo" width="20" height="20"> Git</td>
+    </tr>
+    <tr>
+        <td>CI/CD Tool</td>
+        <td><img class="logo" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins Logo" width="20" height="20"> Jenkins</td>
+    </tr>
+</table>
 
-<p <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-<p <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<h2>Projects</h2>
 
-<p <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  </p>
+<h3><a href="https://github.com/yourusername/web-application-testing">Project 1: Web Application Testing</a></h3>
+<ul>
+    <li>📋 Detailed test plan</li>
+    <li>✅ Comprehensive test cases</li>
+    <li>🐛 Bug reports</li>
+</ul>
 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
+<h3><a href="https://github.com/yourusername/api-testing-postman">Project 2: API Testing with Postman</a></h3>
+<ul>
+    <li>📚 Collection of API test cases</li>
+    <li>🧰 Test scripts for various scenarios</li>
+    <li>📄 Documentation and results</li>
+</ul>
 
+<h2>Connect with Me</h2>
+<ul>
+    <li><a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a></li>
+    <li><a href="shivprasadlokhande9492@gmail.com">Email</a></li>
+</ul>
+
+</body>
+</html>
