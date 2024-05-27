@@ -74,9 +74,11 @@
 
 <h2>Connect with Me</h2>
 <ul>
-    <li><a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a></li>
+    <li><a href="https://www.linkedin.com/in/shivprasad-lokhande">LinkedIn</a></li>
     <li><a href="shivprasadlokhande9492@gmail.com">Email</a></li>
 </ul>
+
+
 
 </body>
 </html>
