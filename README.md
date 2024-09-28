@@ -53,6 +53,10 @@
         <td>CI/CD Tool</td>
         <td><img class="logo" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins Logo" width="20" height="20"> Jenkins</td>
     </tr>
+    <tr>
+        <td>Performance Testing</td>
+        <td><img class="logo" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a3ca8d74-e171-4412-9cea-2015b32fe7f0.jpeg" alt="Jmeter Logo" width="20" height="20"> Jmeter</td>
+    </tr>
 </table>
 
 
