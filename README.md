@@ -62,7 +62,7 @@
 
 <h2>Projects</h2>
 
-<h3><a href="https://github.com/yourusername/web-application-testing">Project 1: Web Application Testing</a></h3>
+<h3><a href="https://github.com/ShivprasadL/Test_Documents/tree/main">Project 1: Web Application Testing</a></h3>
 <ul>
     <li>📋 Detailed test plan</li>
     <li>✅ Comprehensive test cases</li>
