@@ -69,7 +69,14 @@
     <li>🐛 Bug reports</li>
 </ul>
 
-<h3><a href="https://github.com/yourusername/api-testing-postman">Project 2: API Testing with Postman</a></h3>
+<h3><a href="https://github.com/ShivprasadL/Performance-Testing-with-Jmeter/tree/master">Project 2: Performance Testing with Jmeter</a></h3>
+<ul>
+    <li>📚 Test Plan Setup</li>
+    <li>🧰 Configure Listeners and Assertions</li>
+    <li>📄 Run the Test and Analyze Results</li>
+</ul>
+
+<h3><a href="https://github.com/yourusername/api-testing-postman">Project 3: API Testing with Postman</a></h3>
 <ul>
     <li>📚 Collection of API test cases</li>
     <li>🧰 Test scripts for various scenarios</li>
