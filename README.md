@@ -5,7 +5,7 @@
 
 
 <h2>About Me</h2>
-<p>I'm a passionate manual tester with a keen eye for detail and a strong commitment to quality. I have experience in various testing methodologies and tools, and I enjoy collaborating on projects to improve software reliability.</p>
+<p>I'm a passionate tester with a keen eye for detail and a strong commitment to quality. With experience in manual, automation, performance, API, and database testing, I thrive on using diverse methodologies and tools to ensure software reliability. I enjoy collaborating on projects and continuously learning to enhance the testing process.</p>
 
 <h2>Skills</h2>
 <ul>
